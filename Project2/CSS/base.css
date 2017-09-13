@@ -36,3 +36,10 @@ li a:hover:not(.active) {
     background-color: #111;
 }
 
+.content{
+    max-width:  1500px;
+    background-color: #FFF;
+    margin: 40px auto 0 auto;
+    line-height: 1.65;
+    padding: 20px 50px;
+}
